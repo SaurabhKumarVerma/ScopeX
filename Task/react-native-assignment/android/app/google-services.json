@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130899099638",
+    "project_id": "todo2fa",
+    "storage_bucket": "todo2fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130899099638:android:1742d51de27b74a38411d7",
+        "android_client_info": {
+          "package_name": "dev.scopex.SaurabhKumarVerma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfjEpPDLGvEHWeYe2JoKdKx8uc4pAZKDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
